@@ -1,4 +1,4 @@
-#!/bin/dumb-init /bin/sh
+#!/usr/bin/dumb-init /bin/sh
 set -e
 
 VAULT_CONFIG_DIR=/vault/config
